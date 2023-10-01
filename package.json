@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "dir-to-json": "^1.0.0",
+    "mongodb": "^6.1.0",
     "mysql": "^2.18.1"
   }
 }
