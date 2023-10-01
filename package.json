@@ -1,0 +1,15 @@
+{
+  "name": "uc4",
+  "version": "1.0.0",
+  "description": "This is a UFP excersise based on nodejs",
+  "main": "ufp_psr_modulo4_ex2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teodorico Mazivila",
+  "license": "MIT",
+  "dependencies": {
+    "dir-to-json": "^1.0.0",
+    "mysql": "^2.18.1"
+  }
+}
